@@ -11,14 +11,14 @@ public class Ferrari extends ArrayList<String>{
 		return ye;
 	}
 	public void speed() {
-		System.out.println(ye + "ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Óµï¿½ : 300km");
+		System.out.println(ye + "³â½Ä Æä¶ó¸® ¼Óµµ : 300km");
 		super.add("ttt");
 		System.out.println(get(0));
 	}
 	@Override
 	public boolean add(String e) {
-		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ add ï¿½Þ¼Òµï¿½ ï¿½Ô´Ï´ï¿½.");
-		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ê½ï¿½ï¿½Ï´ï¿½.");
+		System.out.println("³»°¡¸¸µç add ¸Þ¼Òµå ÀÔ´Ï´Ù.");
+		System.out.println("ÀúÀåµûÀ© ÇÏÁö ¾Ê½À´Ï´Ù.");
 		return true;
 	}
 	

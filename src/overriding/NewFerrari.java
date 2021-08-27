@@ -5,11 +5,11 @@ public class NewFerrari extends Ferrari{
 		super(ye);
 		}
 	public void autoSystem() {
-		System.out.println("ï¿½Úµï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½å¸¦ ï¿½ï¿½ï¿½ï¿½ï¿½Õ´Ï´ï¿½!");
+		System.out.println("ÀÚµ¿ ¿îÀü ¸ðµå¸¦ ½ÃÀÛÇÕ´Ï´Ù!");
 	}
 	/*public void speed() {
-		System.out.println(getYe()+"ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Óµï¿½ : 500km");
-		System.out.println("ï¿½Íºï¿½ speed ï¿½Þ¸ï¿½ï¿½ï¿½~");
+		System.out.println(getYe()+"³â½Ä Æä¶ó¸® ¼Óµµ : 500km");
+		System.out.println("ÅÍº¸ speed ´Þ¸®ÀÚ~");
 	}
 */
 }
